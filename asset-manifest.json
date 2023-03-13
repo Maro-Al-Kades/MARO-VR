@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/MARO-VR/static/css/main.46d6e86a.css",
+    "main.js": "/MARO-VR/static/js/main.a4bd3472.js",
+    "static/media/logo.svg": "/MARO-VR/static/media/logo.8b1085cc82fdfe9df2496a34adc4c14f.svg",
+    "static/media/headset-1.png": "/MARO-VR/static/media/headset-1.4113a83119be0dd4c844.png",
+    "static/media/explore.png": "/MARO-VR/static/media/explore.ebf710feded2cdf0173a.png",
+    "static/media/headset-3.png": "/MARO-VR/static/media/headset-3.dd254bc5c9f5710f6b8c.png",
+    "static/media/headset-2.png": "/MARO-VR/static/media/headset-2.5e7d3a4f5053a7cd83ce.png",
+    "static/media/headset-4.png": "/MARO-VR/static/media/headset-4.86fbd5331fdf883cace8.png",
+    "static/media/banner-img.png": "/MARO-VR/static/media/banner-img.88d2cff0054ba733f8f1.png",
+    "static/media/exp-img1.png": "/MARO-VR/static/media/exp-img1.28ea24567fb8b360e2e4.png",
+    "static/media/exp-img2.png": "/MARO-VR/static/media/exp-img2.a216be8605dcc797f8c2.png",
+    "static/media/circle.png": "/MARO-VR/static/media/circle.ab211ee049f549b93c44.png",
+    "static/media/video-bg.png": "/MARO-VR/static/media/video-bg.a355a39dae93704ab5bf.png",
+    "static/media/avt2.png": "/MARO-VR/static/media/avt2.f68763ab41dae813d681.png",
+    "static/media/avt1.png": "/MARO-VR/static/media/avt1.75a70dbb97844b58465f.png",
+    "static/media/avt3.png": "/MARO-VR/static/media/avt3.a7ba70df418b3df1ae78.png",
+    "static/media/avt4.png": "/MARO-VR/static/media/avt4.aabbb166b2124eb5f652.png",
+    "index.html": "/MARO-VR/index.html",
+    "main.46d6e86a.css.map": "/MARO-VR/static/css/main.46d6e86a.css.map",
+    "main.a4bd3472.js.map": "/MARO-VR/static/js/main.a4bd3472.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.46d6e86a.css",
+    "static/js/main.a4bd3472.js"
+  ]
+}
