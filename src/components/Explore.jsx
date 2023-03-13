@@ -9,7 +9,6 @@ const Explore = () => {
           <h3
             className="text-3xl font-semibold mb-8"
             data-aos="fade-right"
-            data-aos-offset="1100"
           >
             Explore Product in New Way
           </h3>
